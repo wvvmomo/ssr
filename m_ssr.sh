@@ -462,7 +462,7 @@ Set_config_speed_limit_per_user(){
 }
 Set_config_all(){
 	ssr_port 	 = "443"
-	ssr_password = "745205865"
+	ssr_password = "12345678"
 	ssr_method   = "aes-128-ctr"
 	ssr_protocol = "auth_sha1_v4"
 	ssr_obfs	 ="tls1.2_ticket_auth"
